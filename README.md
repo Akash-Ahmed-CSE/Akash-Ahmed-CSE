@@ -20,4 +20,4 @@ Hi, I’m @Akash-Ahmed-CSE<br>I’m interested in software and how it works.<br>
 ---
 [![](https://visitcount.itsvg.in/api?id=Akash-Ahmed-CSE&icon=0&color=0)](https://visitcount.itsvg.in)
 ### Snake Eating My Contribution Graph
-![snake gif](https://github.com/Akash-Ahmed-CSE/Akash-Ahmed-CSE/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Akash-Ahmed-CSE/Akash-Ahmed-CSE/blob/output/github-contribution-grid-snake.svg)
