@@ -13,13 +13,17 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate snake animation
+      - name: Generate snake animation (custom colors)
         uses: Platane/snk@v3
         with:
           github_user_name: Akash-Ahmed-CSE
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake.gif
+          args: |
+            --color-dots=#282828,#3c3836,#504945,#665c54,#b8bb26
+            --color-snake=#8ec07c
+            --color-head=#fabd2f
+            --background-color=#1d2021
 
       - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v3
