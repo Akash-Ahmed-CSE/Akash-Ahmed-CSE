@@ -17,8 +17,9 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: Akash-Ahmed-CSE
-          svg_out_path: dist/github-contribution-grid-snake.svg
-          gif_out_path: dist/github-contribution-grid-snake.gif
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake.gif
 
       - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v3
