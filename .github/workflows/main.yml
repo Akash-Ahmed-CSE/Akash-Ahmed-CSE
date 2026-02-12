@@ -11,20 +11,21 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
-      - name: Generate snake animation (custom colors)
+      - name: Generate snake animation (dark mode)
         uses: Platane/snk@v3
         with:
           github_user_name: Akash-Ahmed-CSE
           outputs: |
-            dist/github-contribution-grid-snake.svg
-        args: |
-          --color-dots=#1d2021,#3c3836,#504945,#665c54,#b8bb26
-          --color-snake=#8ec07c
-          --color-head=#fabd2f
-          --background-color=#1d2021
-          --animation-speed=5
+            dist/github-contribution-grid-snake-dark.svg
+            dist/github-contribution-grid-snake.gif
+          args: |
+            --theme=dark
+            --color-dots=#1d2021,#3c3836,#504945,#665c54,#b8bb26
+            --color-snake=#8ec07c
+            --color-head=#fabd2f
+            --background-color=#1d2021
 
       - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v3
