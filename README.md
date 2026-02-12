@@ -8,6 +8,9 @@ I'm currently in training for **Software Quality Assurance**.
 
 
 
+
+
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/akashahmed.cse)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_silent.learner_)
@@ -49,9 +52,9 @@ I'm currently in training for **Software Quality Assurance**.
 ---
 
 ## 🐍 Snake Eating My Contribution Graph
-<img src="https://raw.githubusercontent.com/Akash-Ahmed-CSE/Akash-Ahmed-CSE/output/github-contribution-grid-snake-dark.svg?v=1" />
-
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Akash-Ahmed-CSE/Akash-Ahmed-CSE/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
 ---
 
