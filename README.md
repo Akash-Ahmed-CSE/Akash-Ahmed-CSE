@@ -6,7 +6,7 @@ I’m interested in software and how it works.
 Love generating new ideas for software.  
 I'm currently in training for **Software Quality Assurance**.
 
----
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/akashahmed.cse)
