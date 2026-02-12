@@ -4,7 +4,7 @@
 Hi, I’m **@Akash-Ahmed-CSE** 👋  
 I’m interested in software and how it works.  
 Love generating new ideas for software.  
-I'm currently in training for **Software Quality Assurance**.
+I'm currently in Working as a **Software Quality Assurance**.
 <br><br><br><br><br><br><br>
 
 
