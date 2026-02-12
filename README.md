@@ -49,9 +49,8 @@ I'm currently in training for **Software Quality Assurance**.
 ---
 
 ## 🐍 Snake Eating My Contribution Graph
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Akash-Ahmed-CSE/Akash-Ahmed-CSE/output/github-contribution-grid-snake.gif" />
-</p>
+<img src="https://raw.githubusercontent.com/Akash-Ahmed-CSE/Akash-Ahmed-CSE/output/github-contribution-grid-snake-dark.svg?v=1" />
+
 
 
 ---
