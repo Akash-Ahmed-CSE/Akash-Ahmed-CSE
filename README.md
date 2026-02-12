@@ -6,10 +6,7 @@ I’m interested in software and how it works.
 Love generating new ideas for software.  
 I'm currently in training for **Software Quality Assurance**.
 
-
-
-
-
+---
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/akashahmed.cse)
@@ -53,9 +50,8 @@ I'm currently in training for **Software Quality Assurance**.
 
 ## 🐍 Snake Eating My Contribution Graph
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Akash-Ahmed-CSE/Akash-Ahmed-CSE/output/github-contribution-grid-snake.gif" />
+  <img src="https://raw.githubusercontent.com/Akash-Ahmed-CSE/Akash-Ahmed-CSE/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
-
 
 ---
 
